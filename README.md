@@ -37,11 +37,9 @@ Similar to the bullets in your Technical Projects section, your Work Experience 
 
 If you are relatively new to the labor force or transitioning into your field of study from another career you might ask yourself, “What do I put into the work section if I don’t have much relevant work experience?” Think about specific projects that you worked on.
 
-If you’re transitioning from another career, below are two examples of ways to think about how your seemingly non-relevant background is relevant:
+If you’re transitioning from another career, think about how your seemingly non-relevant background is relevant:
 
-- If you were previously in marketing and are looking for a web developer job, talk about a project where you had to develop an online advertising campaign to promote a brand/product.
-
-- If you were a library science major who wants to go into data science, talk about a project where you used technology to assist you in a data research and analysis project.
+- If you were a library science major who wants to go into cybersecurity analytics, talk about a project where you used technology to assist you in a data research and analysis project
 
 - If you worked in a completely non-technical role, think about what skills you utilized, and responsibilities you held that would be desirable to potential employers.
 
@@ -78,6 +76,46 @@ When you think about your responsibilities in past jobs, don’t just think abou
 - Titles may serve to ensure you can make the leap to the job that is open.
 - Results, achievements, quantitative data and metrics show what you accomplished and provide reassurance that you could do this and more at their company.
 
+**MILITARY** 
+
+You’ve joined the ranks of the 250,000+ military personnel who transition back to the civilian workforce each year.  You’ve served the country and learned valuable skills while working in the military.  Now it’s your mission to write your military to civilian resume and get some interviews!  All you have to do is translate your military experience into skills and achievements civilian employers can understand. 
+
+You’ll need to meet the following criteria:
+
+- Demonstrate the civilian applications of your hard-earned military skills, accomplishments, and experiences.
+- Entice recruiters and HR managers to call you for an interview.
+- Show recruiters your ability to transition into civilian employment.
+- Bridge the gap between who you were in the service, and who you want to be as a civilian employee.
+
+Make a master list of your professional merits. Which of your skills, training, military awards, and education are useful for the job you’re targeting?
+
+It may be necessary to eliminate some of your experience and military skills for your new civilian resume. Focus on what’s transferable to your new role. While it’s hard to accept that skills it took years to learn aren’t going to help you obtain your next job, you have to realize that everyone who moves to a new industry has this experience. 
+
+Per Careerbuilder, Forty-eight percent of employers say they pay more attention to applications submitted by U.S. veterans. Sixty-eight percent said that if they had two equally qualified candidates and one was a veteran, they would hire the veteran. Employers selected the most important qualities members of the armed forces bring to organizations after leaving active duty:
+
+- Ability to work as a team 
+- Disciplined approach to work 
+- Respect and integrity 
+- Ability to perform under pressure 
+- Leadership skills
+- Problem-solving skills
+- Ability to adapt quickly
+- Attitude of perseverance
+- Communication skills 
+- Strong technical skills
+
+**Military Resume Resources**
+
+Here are some resources to help you translate your military experience onto your new civilian resume:
+
+[Military skills job translator](https://www.military.com/veteran-jobs/skills-translator)
+
+Career Builder/Google Cloud has a feature for transitioning service personnel to use their MOS codes to find civilian jobs:
+
+- Veterans can now enter their MOS, AFSC or NEC code directly into the search bar of careerbuilder.com or the talent networks for any of CareerBuilder's clients and instantly see civilian jobs that match their experience in any location.
+- Military rank codes are supported in the system. For example, both "11A" for Infantry Officer and "11B" for Infantryman are supported.
+
+
 ## Education 
 
 You should include:
@@ -103,6 +141,5 @@ Now is the time to start putting the pieces together. Remember the resume templa
 
 Use this [checklist](https://docs.google.com/document/d/1rdNSFcvHfPkQJgcVivVVXAjskMtouTDx0Jw_ky75mPc/edit?pli=1) to ensure you’re on track.
 
-If you will be working with a Career Coach, make sure to connect with them, as you will spend time reviewing your resume line-by-line so it represents you in the best possible light and demonstrates the value you've added to your past experiences.
+Make sure to connect with your Career Coach, as you will spend time reviewing your resume line-by-line so it represents you in the best possible light and demonstrates the value you've added to your past experiences.
 
-<p class='util--hide'>View <a href='https://learn.co/lessons/your-work-and-education-experience'>Your Work and Education Experience</a> on Learn.co and start learning to code for free.</p>
